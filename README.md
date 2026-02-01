@@ -53,3 +53,7 @@ mvn spring-boot:run
 
 ## 📜 声明
 本项目仅用于学习 Spring Boot 开发，剧情文本与设定版权归 Quantic Dream 所有。
+
+
+<img width="1026" height="249" alt="image" src="https://github.com/user-attachments/assets/2b466960-078b-4c11-851c-35248f3e9b63" />
+
